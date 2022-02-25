@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.386c926f.css",
+    "main.js": "./static/js/main.0fb67143.js",
+    "static/js/787.ae4b06a5.chunk.js": "./static/js/787.ae4b06a5.chunk.js",
+    "static/media/gyvor_ambassador.png": "./static/media/gyvor_ambassador.96b4e752a1534a0aa2d9.png",
+    "static/media/google-play-badge.png": "./static/media/google-play-badge.f902960a94878ee0da67.png",
+    "index.html": "./index.html",
+    "main.386c926f.css.map": "./static/css/main.386c926f.css.map",
+    "main.0fb67143.js.map": "./static/js/main.0fb67143.js.map",
+    "787.ae4b06a5.chunk.js.map": "./static/js/787.ae4b06a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.386c926f.css",
+    "static/js/main.0fb67143.js"
+  ]
+}
